@@ -1,3 +1,7 @@
 # Weather-fetcher-website
-web app using node.js
-## URL :https://weather-fetcher-app.herokuapp.com/
+
+## Web app using Node.js
+
+### This app is deployed on Azure:
+
+https://weather-fetcher-app.azurewebsites.net/
